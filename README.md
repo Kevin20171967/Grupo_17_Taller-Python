@@ -1,1 +1,3 @@
-# Grupo_17_Taller-Python
+# Curso de Python aplicado a Economía y Finanzas
+
+# Tareas
